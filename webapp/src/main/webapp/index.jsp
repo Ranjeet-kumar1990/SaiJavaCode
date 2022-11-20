@@ -2,6 +2,4 @@
 <h2> By Mr. Ranjeet from Rashu company </h2>
 <h2> It's time to start the DevOps Project-2!! Get ready!!! </h2>
 <h2> We are done with Ansible Deployment !! </h2>
-<h2> This is End-End CI-CD Pipeline DevOps Project with Ansible by Mr. Ranjeet from Rashu!! </h2>
-<h2> Done with project !! <h2>
-<h2> Another Project Done <h2>
+<h2> This is End-End CI-CD Pipeline DevOps Project with Ansible by Mr. Ranjeet from Rashu!! </h2> 
